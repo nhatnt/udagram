@@ -41,7 +41,7 @@ Backend: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/
 
 ```
 export POSTGRES_USERNAME=postgres     // Postgres username
-export POSTGRES_PASSWORD=postgres     // Postgres password
+export POSTGRES_PASSWORD=mypassword     // Postgres password
 export POSTGRES_HOST=''               // Postgres Host
 export POSTGRES_DB=postgres           // Database name
 export AWS_BUCKET=nhatnt-udagram    // S3 bucket
