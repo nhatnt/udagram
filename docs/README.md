@@ -19,9 +19,9 @@ A more in depth documentation into the application.
 
 ### Dependencies
 ```
-- Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
+- Node v14.15.5 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
 
-- npm 6.14.8 (LTS) or more recent, Yarn can work but was not tested for this project
+- npm 6.14.18 (LTS) or more recent, Yarn can work but was not tested for this project
 
 - AWS CLI v2, v1 can work but was not tested for this project
 
@@ -36,10 +36,10 @@ A more in depth documentation into the application.
 ```
 
 ### AWS Cloud Setup
-- RDS - Database Host: mydbinstance.cfps9fdnzcsa.us-east-1.rds.amazonaws.com
+- RDS - Database Host: database-test.c6pqepgacaoq.us-east-1.rds.amazonaws.com
 - RDS - Database Port: 5432
 - RDS - Database Name: postgres
-- S3 Endpoint - Frontend: http://thanhlnt-udagram.s3-website-us-east-1.amazonaws.com/
+- S3 Endpoint - Frontend: http://myawsbucket-nhatnt.s3-website-us-east-1.amazonaws.com/
 - Elastic Beanstalk URL - Backend: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/
 
 ## Environment Variables
