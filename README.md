@@ -15,7 +15,7 @@ The main feature of this project is:
 The project can run but is missing some information to connect to the database and storage service
 
 ## Project Link
-Frontend: http://nhatnt-udagram.s3-website-us-east-1.amazonaws.com/
+Frontend: http://myawsbucket-nhatnt.s3-website-us-east-1.amazonaws.com/
 
 Backend: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/
 
