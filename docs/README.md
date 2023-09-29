@@ -11,7 +11,6 @@
     - [Unit Tests:](#unit-tests)
     - [End to End Tests:](#end-to-end-tests)
   - [Built With](#built-with)
-
 ---
 
 ## Description
@@ -34,7 +33,6 @@ A more in depth documentation into the application.
 - AWS Elastic Beanstalk for Backend.
 
 ```
-
 ### AWS Cloud Setup
 - RDS - Database Host: database-test.c6pqepgacaoq.us-east-1.rds.amazonaws.com
 - RDS - Database Port: 5432
